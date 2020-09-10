@@ -1,2 +1,2 @@
 # CR-10S-Setup
-Marlin 2.xx firmware configuration with BLTouch, EZStruder and other modifications.
+Marlin 2.0.x firmware configuration with BLTouch and EZR Struder.
