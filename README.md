@@ -1,6 +1,13 @@
 # CR-10S
 Marlin 2.0.x firmware configuration with BLTouch and EZR Struder.
 
+### Upgrade Parts
+- [SeeMeCNC EZR Struder](https://www.seemecnc.com/products/ezrstruder)
+- [Capricorn Bowden PTFE Tubing](https://www.filastruder.com/collections/e3d-spare-parts-and-accessories/products/capricorn-ptfe-tubing)
+- [Creality 3D Printer BL Touch Auto Bed Leveling Sensor Kit](https://www.amazon.com/gp/product/B0859T6JVC/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+- [Befenybay Upgrade 2020 Profile X-axis Synchronous Belt Tensioner](https://www.amazon.com/gp/product/B087YWMHM2/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+- [Befenybay Upgrade Y-axis Synchronous Belt Tensioner](https://www.amazon.com/gp/product/B07XQH1FPN/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+
 ### 3DMN Z-Offset Callibration Instructions
   1. Home 3D printer
   2. `M851 Z0` - Reset Z0Offset
@@ -19,7 +26,6 @@ Marlin 2.0.x firmware configuration with BLTouch and EZR Struder.
   15. `M503` - display current settings
 
 ### Resources
-
 **Videos**:
  - [Installing the BLTouch on the CR-10S](https://www.youtube.com/watch?v=fPUXS1lFPYQ)
  - [Calibrating Z-Offset With A BLTouch Bed Levelling Probe](https://youtu.be/y_1Kg45APko)
